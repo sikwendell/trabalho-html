@@ -1,0 +1,8 @@
+*{
+    background: linear-gradient(to right, #616161,#000000);
+
+}
+
+.div,p,a{
+    background: linear-gradient(to right, #616161,#000000);
+}

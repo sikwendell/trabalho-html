@@ -1,0 +1,62 @@
+body{
+	color: white;
+	background-image: url(../img/001.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
+    font-family: verdana;
+	background-color: rgb(34, 34, 34);
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 30px;
+
+
+}
+h4{
+	 line-height: 20px;
+    max-width: 800px;
+    font-family: verdana;
+}
+main{
+display: flex;
+flex-direction: row;
+
+}
+img{
+height: 450;
+	width: 243;
+}
+p{
+	 line-height: 20px;
+    max-width: 500px;
+    font-family: verdana;
+}
+
+h3{
+	 line-height: 20px;
+    max-width: 500px;
+    font-family: verdana;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: black;
+}
+a:hover{
+    color: rgb(132, 14, 201);
+    transition: 0.4s all;
+}
+
+a{
+    border: 2px solid rgb(132, 14, 201);
+    padding: 10px;
+    border-radius: 15px;
+}
+a:hover{
+    background-color: rgb(132, 14, 201);
+    color: white;
+}
